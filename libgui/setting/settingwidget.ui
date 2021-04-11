@@ -1224,7 +1224,7 @@
                   </spacer>
                  </item>
                  <item>
-                  <widget class="QPushButton" name="pushButton">
+                  <widget class="QPushButton" name="pushTestCustomerDisplay">
                    <property name="text">
                     <string>Test</string>
                    </property>
